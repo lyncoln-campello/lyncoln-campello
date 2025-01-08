@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left"># Sobre mim  <br>Um entusiasta da tecnologia e desenvolvedor Full Stack em formação. Meu foco está em criar soluções com Java, Spring, React, SQL, HTML e CSS, sempre buscando combinar criatividade e funcionalidade nos meus projetos.  <br><br>🥊 Além da tecnologia, sou apaixonado por esportes. Já pratiquei boxe, muay thai e basquete, e acredito que a disciplina, o foco e a resiliência aprendidos nesses esportes são qualidades que aplico no meu dia a dia como desenvolvedor.  <br><br>🚀 Aqui no meu GitHub, você encontrará projetos que refletem minha evolução e desafios no mundo da programação. Estou em constante aprendizado, sempre em busca de crescer e contribuir para projetos significativos.  <br><br>💻 Vamos nos conectar? Explore meus repositórios e sinta-se à vontade para entrar em contato!</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lyncoln-campello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lyncoln-campello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -9,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -29,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/lyncolncampello" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -48,4 +52,9 @@
 <img src="https://raw.githubusercontent.com/lyncoln-campello/lyncoln-campello/output/snake.svg" alt="Snake animation" />
 
 ###
--->
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
